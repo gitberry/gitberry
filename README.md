@@ -9,12 +9,12 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 ## Data ##
 
 1. SQL snippets that include:
-  a. random data for testing
-  a. PIVOT\
-https://github.com/gitberry/SQLSnippets 
+  1. random data for testing
+  1. PIVOT
+  https://github.com/gitberry/SQLSnippets 
 
-1. Hash a database structure to know immediately if any structures has changed<br/>
-https://github.com/gitberry/sqlHash
+1. Hash a database structure to know immediately if any structures has changed
+   https://github.com/gitberry/sqlHash
 
 ## Geofun/GIS ##
 
