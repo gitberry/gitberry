@@ -9,8 +9,8 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 ## Data ##
 
 1. SQL snippets that include:
-  1. random data for testing
-  1. PIVOT
+   1. random data for testing
+   1. PIVOT
   https://github.com/gitberry/SQLSnippets 
 
 1. Hash a database structure to know immediately if any structures has changed
