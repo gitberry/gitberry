@@ -10,18 +10,15 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 
 1. SQL snippets that include:
  a. random data for testing
- a. PIVOT
-
+ a. PIVOT\
 https://github.com/gitberry/SQLSnippets 
 
-1. Hash a database structure to know immediately if any structures has changed
-
+1. Hash a database structure to know immediately if any structures has changed<br/>
 https://github.com/gitberry/sqlHash
 
 ## Geofun/GIS ##
 
 1. c# to convert get google KML into something else - VERY crude - for onetime tasks
-
 https://github.com/gitberry/KMLPoints
 
 3. C# to convert Lat/Lon DMS Coordinates to D decimal - handy when geo data doesn't come the way you need it!
