@@ -45,26 +45,29 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 
 Below is some of the items on my interest list. In no particular order:
 
+1. SQL snippets that include:
+   1. random data for testing
+   1. PIVOT
 1. JSON Web Token (JWT) API
-  1. Serve/Generate
-  1. Client/Consume
+   1. Serve/Generate
+   1. Client/Consume
 1. A full Authentication API (extra - is 2step extendable.. )
 3. In Legacy .NET 4.7: Full CRUD JSON API using EF and MS SQL ( MySQL & sqlite too perhaps) 
 4. In .NET 6 or 7 :  Full CRUD JSON  API using EF and MS SQL ( MySQL & sqlite too perhaps)
 5. Hyperspectral analysis
-  1. Python
-  1. ENVI
-  1. ArcGIS
-  1. ML
+   1. Python
+   1. ENVI
+   1. ArcGIS
+   1. ML
 1. Python
-  1. simple ML (ie character recog)
-  1. transactional analysis - reproducing work done here:<br/> https://github.com/laurentran/sequence-labeling
+   1. simple ML (ie character recog)
+   1. transactional analysis - reproducing work done here:<br/> https://github.com/laurentran/sequence-labeling
 1. Generic Collection app
-  1. collecting words/phrases & meta
-  1. voting
-  1. scheduling (ie word of the day)
+   1. collecting words/phrases & meta
+   1. voting
+   1. scheduling (ie word of the day)
 1. Generic Event organizer
-  1. Multi user/type authentication (& public viewing)
-  1. Schedule/Location coordination
-  1. results output
+   1. Multi user/type authentication (& public viewing)
+   1. Schedule/Location coordination
+   1. results output
    
