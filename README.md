@@ -29,18 +29,21 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 1. Mobile first HTML
 <br />https://github.com/gitberry/MobileFirstHTMLexample
 
-4. A simple experiment encrypting/decrypting using vuejs
+1. A simple experiment encrypting/decrypting using vuejs
 <br />This concept of decrypting at the js client side is powerful - would like to know more about how apps like Bitwarden do it.  In the meantime I must learn some basics - and I decided to try it in vuejs - which is one of my favourite frontend frameworks (so far..)
 <br />https://github.com/gitberry/vuejsSimplyEncryptDecrypt
 
-6. A study of vuejs routes in a SPA (plus IIS and subdirectories off of domains)
+1. A study of vuejs routes in a SPA (plus IIS and subdirectories off of domains)
 <br />https://github.com/gitberry/VuejsRoutingIISSubDirExample
-
-7. A study of vuejs using a simple API
-<br />https://github.com/gitberry/StudyVuejsUsingsimpleAPI
 
 1. a crude .net 4.7 API stub (no authentication, no SQL)
 <br />https://github.com/gitberry/APIcrudStubExample
+
+1. A study of vuejs using a simple API
+<br />https://github.com/gitberry/StudyVuejsUsingsimpleAPI
+
+1. a readonly .net 4.7 API using EF TSQL
+<br />https://github.com/gitberry/StudySimpleAPIwSQL
 
 # Future Studies / Examples #
 
@@ -50,9 +53,9 @@ Below is some of the items on my interest list. In no particular order:
    1. Serve/Generate
    1. Client/Consume
 1. A full Authentication API (extra - is 2step extendable.. )
-3. In Legacy .NET 4.7: Full CRUD JSON API using EF and MS SQL ( MySQL & sqlite too perhaps) 
-4. In .NET 6 or 7 :  Full CRUD JSON  API using EF and MS SQL ( MySQL & sqlite too perhaps)
-5. Hyperspectral analysis
+1. In Legacy .NET 4.7: Full CRUD JSON API using EF and MS SQL ( MySQL & sqlite too perhaps) 
+1. In .NET 6 or 7 :  Full CRUD JSON  API using EF and MS SQL ( MySQL & sqlite too perhaps)
+1. Hyperspectral analysis
    1. Python
    1. ENVI
    1. ArcGIS
@@ -64,6 +67,10 @@ Below is some of the items on my interest list. In no particular order:
    1. collecting words/phrases & meta
    1. voting
    1. scheduling (ie word of the day)
+1. raspberryPI, rechargable power source, QR of signed datetime - to fulfill a geo collecting objective. 
+   <br />extra: tamper resistant regime (ie theft of signing key and reloading)
+1. rasberryPI security cam controller
+1. rasberryPI controller for watering plants, weather station sensors and more.
 1. QR codes:
    1. Generate
    2. extra: decode using camera
