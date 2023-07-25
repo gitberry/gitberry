@@ -66,9 +66,10 @@ Below is some of the items on my interest list. In no particular order:
 1. Generic Collection app
    1. collecting words/phrases & meta
    1. voting
-   1. scheduling (ie word of the day)
+   1. scheduling notices (ie word of the day)
+1. arduino - internet gateway power reset when threshold achieved.
 1. raspberryPI, rechargable power source, QR of signed datetime - to fulfill a geo collecting objective. 
-   <br />extra: tamper resistant regime (ie theft of signing key and reloading)
+   <br />extra: tamper resistant regime (ie avoid theft of signing key)
 1. rasberryPI security cam controller
 1. rasberryPI controller for watering plants, weather station sensors and more.
 1. QR codes:
