@@ -16,7 +16,7 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 1. Hash a database structure to know immediately if any structures has changed
    <br />https://github.com/gitberry/sqlHash
 
-## Geofun/GIS ##
+## Geofun / GIS ##
 
 1. c# to convert get google KML into something else - VERY crude - for onetime tasks
 <br />https://github.com/gitberry/KMLPoints
@@ -40,3 +40,34 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 
 1. a crude .net 4.7 API stub (no authentication, no SQL)
 <br />https://github.com/gitberry/APIcrudStubExample
+
+# Future Studies / Examples #
+
+Below is some of the items on my interest list. In no particular order:
+
+1. JSON Web Token (JWT) API
+   i. Serve/Generate
+   i. Client/Consume
+1. A full Authentication API (extra - is 2step extendable.. )
+3. In Legacy .NET 4.7: Full CRUD JSON API using EF and MS SQL ( MySQL & sqlite too perhaps) 
+4. In .NET 6 or 7 :  Full CRUD JSON  API using EF and MS SQL ( MySQL & sqlite too perhaps)
+5. Hyperspectral analysis
+   i. Python
+   i. ENVI
+   i. ArcGIS
+   i. ML
+1. Python
+   i. simple ML (ie character recog)
+   i. transactional analysis - reproducing work done here: https://github.com/laurentran/sequence-labeling
+1. Generic Collection app
+   i. collecting words/phrases & meta
+   i. voting
+   i. scheduling (ie word of the day)
+1. Generic Event organizer
+   i. Multi user/type authentication (& public viewing)
+   i. Schedule/Location coordination
+   i. results output
+   
+   
+
+#
