@@ -46,7 +46,7 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 
 Below is some of the items on my interest list. In no particular order:
 
-1. JSON Web Token (JWT) API <img src='thumbUp.jpeg' onClick="alert('I like this!');">
+1. JSON Web Token (JWT) API 
    1. Serve/Generate
    1. Client/Consume
 1. A full Authentication API (extra - is 2step extendable.. )
