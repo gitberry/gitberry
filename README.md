@@ -30,6 +30,7 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 <br />https://github.com/gitberry/MobileFirstHTMLexample
 
 4. A simple experiment encrypting/decrypting using vuejs
+<br />This concept of decrypting at the js client side is powerful - would like to know more about how apps like Bitwarden do it.  In the meantime I must learn some basics - and I decided to try it in vuejs - which is one of my favourite frontend frameworks (so far..)
 <br />https://github.com/gitberry/vuejsSimplyEncryptDecrypt
 
 6. A study of vuejs routes in a SPA (plus IIS and subdirectories off of domains)
@@ -45,9 +46,6 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 
 Below is some of the items on my interest list. In no particular order:
 
-1. SQL snippets that include:
-   1. random data for testing
-   1. PIVOT
 1. JSON Web Token (JWT) API
    1. Serve/Generate
    1. Client/Consume
@@ -66,6 +64,10 @@ Below is some of the items on my interest list. In no particular order:
    1. collecting words/phrases & meta
    1. voting
    1. scheduling (ie word of the day)
+1. QR codes:
+   1. Generate
+   2. extra: decode using camera
+   3. authentication loopback
 1. Generic Event organizer
    1. Multi user/type authentication (& public viewing)
    1. Schedule/Location coordination
