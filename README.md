@@ -72,6 +72,11 @@ Below is some of the items on my interest list. In no particular order:
    <br />extra: tamper resistant regime (ie avoid theft of signing key)
 1. rasberryPI security cam controller
 1. rasberryPI controller for watering plants, weather station sensors and more.
+1. encryption
+   1. PKI generate
+   1. signing
+   1. encrypting
+   1. historical summary
 1. QR codes:
    1. Generate
    2. extra: decode using camera
