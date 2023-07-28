@@ -49,7 +49,7 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 1. A simple study to make a QR Code windows desktop app - in .NET CORE 5.0
 <br />https://github.com/gitberry/QRcodeCreateWindowsForms
 
-# Future Studies / Examples #
+# *** Future Studies / Examples *** #
 
 Below is some of the items on my interest list. In no particular order:
 
