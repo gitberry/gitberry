@@ -45,6 +45,10 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 1. a readonly .net 4.7 API using EF TSQL
 <br />https://github.com/gitberry/StudySimpleAPIwSQL
 
+## QR codes ##
+1. A simple study to make a QR Code windows desktop app - in .NET CORE 5.0
+<br />https://github.com/gitberry/QRcodeCreateWindowsForms
+
 # Future Studies / Examples #
 
 Below is some of the items on my interest list. In no particular order:
@@ -78,7 +82,7 @@ Below is some of the items on my interest list. In no particular order:
    1. encrypting
    1. historical summary
 1. QR codes:
-   1. Generate
+   1. Generate (Windows/Web) (extra: OSX/Android using MAUI)
    2. extra: decode using camera
    3. authentication loopback
 1. Generic Event organizer
