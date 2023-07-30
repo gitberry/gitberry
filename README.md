@@ -91,5 +91,10 @@ Below is some of the items on my interest list. In no particular order:
    1. Schedule/Location coordination
    1. results output
 1. SQL
-   1. DNA sequence analysis 
+   1. DNA sequence analysis
+1. chatgpt / llm's
+   1. Sql
+   2. c#
+   3. python
+   4. js & frameworks  
    
