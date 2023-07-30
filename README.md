@@ -75,6 +75,7 @@ Below is some of the items on my interest list. In no particular order:
 1. raspberryPI, rechargable power source, QR of signed datetime - to fulfill a geo collecting objective. 
    <br />extra: tamper resistant regime (ie avoid theft of signing key)
 1. rasberryPI security cam controller
+1. rpi air traffic node
 1. rasberryPI controller for watering plants, weather station sensors and more.
 1. encryption
    1. PKI generate
@@ -89,4 +90,6 @@ Below is some of the items on my interest list. In no particular order:
    1. Multi user/type authentication (& public viewing)
    1. Schedule/Location coordination
    1. results output
+1. SQL
+   1. DNA sequence analysis 
    
