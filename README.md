@@ -28,6 +28,7 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 
 1. Mobile first HTML
 <br />https://github.com/gitberry/MobileFirstHTMLexample
+<br />https://github.com/gitberry/HTMLandJSSimpleSchedule
 
 1. A simple experiment encrypting/decrypting using vuejs
 <br />This concept of decrypting at the js client side is powerful - would like to know more about how apps like Bitwarden do it.  In the meantime I must learn some basics - and I decided to try it in vuejs - which is one of my favourite frontend frameworks (so far..)
