@@ -86,9 +86,10 @@ Below is some of the items on my interest list. In no particular order:
    1. deep dive into bitwarden (https://github.com/bitwarden/)
    1. deep dive into 1password (https://github.com/dschuetz/1password)
 1. QR codes:
-   1. Generate (Windows/Web) (extra: OSX/Android using MAUI)
+   1. Generate (Windows (done)/Web server/browser JS client) (extra: OSX/Android using Xamarin/MAUI)
    2. extra: decode using camera
-   3. authentication loopback
+   3. extra: decode in a Xamarin/MAUI app
+   4. authentication loopback
 1. Generic Event organizer
    1. Multi user/type authentication (& public viewing)
    1. Schedule/Location coordination
