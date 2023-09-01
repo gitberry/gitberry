@@ -83,6 +83,8 @@ Below is some of the items on my interest list. In no particular order:
    1. signing
    1. encrypting
    1. historical summary
+   1. deep dive into bitwarden (https://github.com/bitwarden/)
+   1. deep dive into 1password (https://github.com/dschuetz/1password)
 1. QR codes:
    1. Generate (Windows/Web) (extra: OSX/Android using MAUI)
    2. extra: decode using camera
