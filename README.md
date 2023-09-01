@@ -95,6 +95,9 @@ Below is some of the items on my interest list. In no particular order:
    1. Schedule/Location coordination
    1. results output
 1. SQL
+   1.  follow the same process  the Credit Union project I collaborated with Lauren Tran – a Microsoft Data Scientist for using Machine Learning to process transactional (ie financial transactions) data.   
+   Challenges: (with what data? generated data?) (my nerves-induced bobble-headed interview here: https://www.youtube.com/watch?v=mn2Cy-0oiH8 - I think our cool Microsoft host vblogger could hardly keep from laughing out loud…) 
+   Lauren's Open source from that project:  https://github.com/laurentran/sequence-labeling
    1. DNA sequence analysis
 1. chatgpt / llm's
    1. Sql
