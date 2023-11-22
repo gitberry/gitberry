@@ -11,7 +11,8 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 1. SQL snippets that include:
    1. random data for testing
    1. PIVOT
-  <br />https://github.com/gitberry/SQLSnippets 
+  <br />https://github.com/gitberry/SQLSnippets
+   1. deriving structure from JSON blurb
 
 1. Hash a database structure to know immediately if any structures has changed
    <br />https://github.com/gitberry/sqlHash
