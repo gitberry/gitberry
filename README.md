@@ -13,6 +13,7 @@ This github holds repos that demonstrate or "study" various skills/technologies 
    1. PIVOT
   <br />https://github.com/gitberry/SQLSnippets
    1. deriving structure from JSON blurb
+   <br />https://github.com/gitberry/SQLSnippets/blob/main/CrudeJsonORM.sql
 
 1. Hash a database structure to know immediately if any structures has changed
    <br />https://github.com/gitberry/sqlHash
