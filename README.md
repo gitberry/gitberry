@@ -55,13 +55,24 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 1. A simple study to make a QR Code windows desktop app - in .NET CORE 5.0
 <br />https://github.com/gitberry/QRcodeCreateWindowsForms
 
+1. JSON Web Token (JWT) API
+   <br />The following two projects work hand in hand to provide
+   both sides of the JWT action - the JWT token authentication/generation/validation
+   between a server and a client.  A lot of fun to do!
+   1. Serve/Generate
+<br />This example done with .net 4.7 - I'd like to repeat with other stacks..
+<br />Source: [https://github.com/gitberry/jwt-demo-backend-net47]
+<br />Working Exmple: [https://jwtdemo.northberry.ca/json/swagger/]
+   1. Client/Consume
+<br />This example was done with Vuejs3, Vite, Pinia stack - to adoringly paraphrase an old musical: "a very modern framework for a very modern development"
+<br />Source: [https://github.com/gitberry/jwt-demo-frontend-vuevitepinia]
+<br />Working Exmple: [https://jwtdemo.northberry.ca/]
+  
+
 # *** Future Studies / Examples *** #
 
 Below is some of the items on my interest list. In no particular order:
 
-1. JSON Web Token (JWT) API 
-   1. Serve/Generate
-   1. Client/Consume
 1. A full Authentication API (extra - is 2step extendable.. )
 1. In Legacy .NET 4.7: Full CRUD JSON API using EF and MS SQL ( MySQL & sqlite too perhaps) 
 1. In .NET 6 or 7 :  Full CRUD JSON  API using EF and MS SQL ( MySQL & sqlite too perhaps)
