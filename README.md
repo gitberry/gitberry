@@ -51,10 +51,6 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 1. tables in vuejs using tanstack
 <br />https://github.com/gitberry/vue-tanstack-example
 
-## QR codes ##
-1. A simple study to make a QR Code windows desktop app - in .NET CORE 5.0
-<br />https://github.com/gitberry/QRcodeCreateWindowsForms
-
 1. JSON Web Token (JWT) API
    <br />The following two projects work hand in hand to provide
    both sides of the JWT action - the JWT token authentication/generation/validation
@@ -64,9 +60,15 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 <br />Source: [https://github.com/gitberry/jwt-demo-backend-net47]
 <br />Working Exmple: [https://jwtdemo.northberry.ca/json/swagger/]
    1. Client/Consume
-<br />This example was done with Vuejs3, Vite, Pinia stack - to adoringly paraphrase an old musical: "a very modern framework for a very modern development"
+<br />This example was done with Vuejs3, Vite, Pinia stack - to adoringly paraphrase an old musical: "a very modern general.. framework for a very modern major dev stack..."
 <br />Source: [https://github.com/gitberry/jwt-demo-frontend-vuevitepinia]
 <br />Working Exmple: [https://jwtdemo.northberry.ca/]
+
+
+## QR codes ##
+1. A simple study to make a QR Code windows desktop app - in .NET CORE 5.0
+<br />https://github.com/gitberry/QRcodeCreateWindowsForms
+
   
 
 # *** Future Studies / Examples *** #
