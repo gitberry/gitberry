@@ -64,11 +64,24 @@ This github holds repos that demonstrate or "study" various skills/technologies 
 <br />Source: [https://github.com/gitberry/jwt-demo-frontend-vuevitepinia]
 <br />Working Exmple: [https://jwtdemo.northberry.ca/]
 
+1. CRUD - .net API and VueJs3 Frontend
+   <br/>Similar to the JWT project above - but full crud (Create Read Update Delete) demo.
+   I didn't like how I build the SQL and DTO (Data Transfer Object) code
+   and noted it.  I also want to leverage some tanstack tech
+   I played with earlier - so this little demo project may get taken down
+   and rewritten one of these days.
+   <br/>Frontend: https://github.com/gitberry/crud-demo-frontend
+   <br/>Backend: https://github.com/gitberry/crud-demo-api
 
-## QR codes ##
+## QR codes / PDFs ##
 1. A simple study to make a QR Code windows desktop app - in .NET CORE 5.0
 <br />https://github.com/gitberry/QRcodeCreateWindowsForms
-
+1. An older personal project I had done back in 2017 with an older version of iTextSharp
+   <br/>it was built to do form populating and page copying and paste automation
+   but it also could do QR code generation and image insertion into PDFs
+   older but kind cool to look at that.  I'll probably build my next
+   stuff in a frontend tech..  stay tuned...
+   <br/>https://github.com/gitberry/pdfTool
   
 
 # *** Future Studies / Examples *** #
